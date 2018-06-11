@@ -1,0 +1,14 @@
+set from = "unixenglish0100@gmail.com"
+set realname = "sir english"
+set imap_user = "unixenglish0100@gmail.com"
+set imap_pass = "eisendrachegrosseisen"
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set postponed ="+[Gmail]/Drafts"
+set header_cache =~/.mutt/cache/headers
+set message_cachedir =~/.mutt/cache/bodies
+set certificate_file =~/.mutt/certificates
+set smtp_url = "smtp://unixenglish0100@smtp.gmail.com:587/"
+set smtp_pass = "eisendrachegrosseisen"
+set move = no 
+set imap_keepalive = 900
